@@ -1,0 +1,23 @@
+.BlogText{ 
+    margin:16px;
+    padding:16px;
+    border-radius:5px;
+    box-sizing:border-box;
+    box-shadow:0 2px 5px #ccc;
+    font-size:24px;
+  }
+   
+  .BlogText > button {
+    font-size: 24px;
+  }
+
+  .LikeCount {
+    font-weight: 600;
+    font-size: 28px;
+  }
+  @media (min-width : 992px){
+    .BlogText {
+        width:45%;
+        display:inline-block;
+    }
+  }

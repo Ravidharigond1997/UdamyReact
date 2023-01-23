@@ -1,0 +1,12 @@
+.App{
+  text-align:center;
+}
+.BlogText{ 
+  margin:16px;
+  padding:16px;
+  border-radius:5px;
+  box-sizing:border-box;
+  box-shadow:0 2px 5px #ccc;
+  margin-left:100px;;
+  margin-right:100px;
+}
